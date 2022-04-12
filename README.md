@@ -1,8 +1,7 @@
 ### Benvenuti nel mio profilo Github 👋
 
 Mi chiamo Carlo e sono un appassionato del web da più di 10 anni, mi piace risolvere problemi e riuscire ad ottenere risultati anche nelle sfide più dure.
-Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-frontend, negli anni ho preferito saper dedicare le mie abilità per ottenere 
-dei siti web quanto più completi, senza dipendere da altre figure, il che mi ha portato a sviluppare le abilità di cui oggi vado fiero.
+Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-frontend, negli anni ho preferito saper dedicare del tempo per imparare dinamiche e caratteristiche di vari settori nel web per ottenere applicazioni e siti web quanto più completi, senza dipendere da altre figure, nonostante ciò lavoro bene in team e qualsiasi consiglio viene apprezzato!
 
 #### I'm a Full-Stack Developer and Web Designer UI/UX working in Catania, Sicily.
 
