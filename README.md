@@ -22,5 +22,7 @@ dei siti web quanto più completi, senza dipendere da altre figure, il che mi ha
 
 ##### In Learning...
 
+🚧 - `Typescript`
+
 💎 - Blockchain: `BSC smart chain`, `Solidity`
 
