@@ -7,11 +7,11 @@ Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-fro
 
 💻 - Front-end: `Html5`, `Css3`, `Scss`, `Sass`, `Js`, `Es6-9`, `Jquery`, `Twig`, `Json`
 
-⚙️ - Back-end: `Nodejs`, `Php`, `Python`, `MongoDB`
+⚙️ - Back-end: `Nodejs`, `Php`, `Python`, `Go`, `MongoDB`, `Mysql`
 
 🌌 - Frameworks: `Express`, `ReactJS`
 
-☁️ - Cloud Platforms: `Google Cloud`, `DigitalOcean`, `AWS`
+☁️ - Cloud Platforms: `Heroku`, `Google Cloud`, `DigitalOcean`, `AWS`
 
 🏪 - CMS Platforms: `Shopify`, `Storeden`, `Wordpress`
 
