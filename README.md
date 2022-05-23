@@ -9,19 +9,19 @@ Le mie abilità nel web ricoprono sia la parte grafica, che la parte backend-fro
 
 ⚙️ - Back-end: `Nodejs`, `Php`, `Python`, `Go`, `MongoDB`, `Mysql`
 
-🌌 - Frameworks: `Express`, `ReactJS`
+🌌 - Frameworks: `Express`, `ReactJS`, `Next.js`, `Vue.JS`, `Nuxt.js`
 
-☁️ - Cloud Platforms: `Heroku`, `Google Cloud`, `DigitalOcean`, `AWS`
+☁️ - Cloud Platforms: `Heroku`, `Google Cloud`, `DigitalOcean`, `AWS`, `Fleek.co`
 
 🏪 - CMS Platforms: `Shopify`, `Storeden`, `Wordpress`
 
 📲 - Track Integration: `Facebook Pixel`, `Google Tag Manager`, `Google Analytics`
 
+📬 - Email Marketing Integration: `Mailchimp`, `Klaviyo`, `ActiveCampaign`
+
 🎨 - Art: `Photoshop CC`, `Figma`, `Illustrator CC`, `Canva`
 
 ##### In Learning...
-
-🚧 - `Typescript`
 
 💎 - Blockchain: `BSC smart chain`, `Solidity`
 
